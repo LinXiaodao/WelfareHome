@@ -1,0 +1,3 @@
+[submodule "pao_python"]
+	path = pao_python
+	url = https://gitee.com/pao200724/pao-python.git
